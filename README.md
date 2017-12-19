@@ -8,7 +8,6 @@ From the command line, type:
 
 ```
 git clone https://github.com/caktus/drf-sample.git
-cd drfsample
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
